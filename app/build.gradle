@@ -45,5 +45,9 @@ dependencies {
 
     // DataStore
     implementation "androidx.datastore:datastore-preferences:1.0.0"
+    //Card view
+    //noinspection GradleCompatible
+    implementation'androidx.cardview:cardview:1.0.0'
+
 
 }
